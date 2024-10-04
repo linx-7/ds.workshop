@@ -13,4 +13,7 @@ int main(int argc, char* argv[]){
     while (it != intList.rend()) {
         std::cout << (*it)*(*it) << std::endl;
         it++;
+
+    }
+    
 }
